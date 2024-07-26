@@ -19,6 +19,19 @@ form{
     border-radius: 30px;
     width: 90%;
 }
+.fild{
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 25px;
+    width: 85%;
+    height: 2em;
+}
+
+.icon1{
+    margin-left: 8px;
+}
 
 input{
     margin: 0.5em;
